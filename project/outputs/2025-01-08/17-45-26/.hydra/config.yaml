@@ -1,0 +1,3 @@
+deafults:
+- model_conf: model_conf.yaml
+- training_conf: training_conf.yaml

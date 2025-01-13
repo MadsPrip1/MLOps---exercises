@@ -1,0 +1,4 @@
+deafults:
+- model_conf: model_conf
+- training_conf: training_conf
+hyperparameters: ${model_conf.hyperparameters} ${training_conf.hyperparameters}
